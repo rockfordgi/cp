@@ -1,4 +1,5 @@
 {
+  "captive": true,
   "status": "success",
   "network-name": "RGA_GUEST_TEST",
   "login-url": "http://198.18.32.1/reg.php?ah_goal=index.html",
