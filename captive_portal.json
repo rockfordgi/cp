@@ -1,11 +1,11 @@
 {
   "status": "success",
   "network-name": "RGA_GUEST_TEST",
-  "login-url": "http://198.18.32.1/reg.php?ah_goal=index.html&ah_login=true&url=E2B8F3578D88E9E37BDEBB16D6D912CA8C7A5085533388E08E87",
+  "login-url": "http://198.18.32.1/reg.php?ah_goal=index.html&ah_login=true&url=E2B8F3578D88E9E37BDEBB16D6D912CA8C7A5085533388E08E87D5",
   "message": "Welcome to RGA Wi-Fi! Please log in to get online.",
   "helpdesk": {
     "email": "support@rockfordgi.com",
     "phone": ""
   },
-  "terms-of-service-url": "http://198.18.32.1/reg.php?ah_goal=index.html&ah_login=true&url=E2B8F3578D88E9E37BDEBB16D6D912CA8C7A5085533388E08E87"
+  "terms-of-service-url": "http://198.18.32.1/reg.php?ah_goal=index.html&ah_login=true&url=E2B8F3578D88E9E37BDEBB16D6D912CA8C7A5085533388E08E87D5"
 }
