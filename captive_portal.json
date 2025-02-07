@@ -1,7 +1,5 @@
 {
   "captive": true,
-  "status": "success",
-  "network-name": "RGA_GUEST_TEST",
-  "login-url": "http://198.18.32.1/reg.php?ah_goal=index.html",
-  "message": "Welcome to RGA Wi-Fi! Please log in to get online."
+  "user-portal-url": "http://198.18.32.1/reg.php?ah_goal=index.html",
+  "can-extend-session": true,
 }
