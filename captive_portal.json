@@ -1,5 +1,5 @@
 {
   "status": "login-required",
-  "login-url": "https://198.18.32.1/reg.php?ah_goal=index.html",
+  "login-url": "http://198.18.32.1/reg.php?ah_goal=index.html",
   "message": "Welcome to RGA Wi-Fi! Please log in to get online."
 }
